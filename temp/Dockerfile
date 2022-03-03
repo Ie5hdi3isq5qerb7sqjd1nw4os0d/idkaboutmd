@@ -1,0 +1,1 @@
+from fusuf/whatsasena:latest
