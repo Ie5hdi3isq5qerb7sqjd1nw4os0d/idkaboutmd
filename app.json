@@ -69,26 +69,7 @@
         "COMMAND_LIST_MSG": {
             "description": "Customizable COMMAND LIST Message type a message to show in command list menu.",
             "required": false,
-            "value": `
-‎‎  *✎෴ Cᴏᴍᴍᴀɴᴅ Mᴇɴᴜ 🔱*
-╭─────────────────────╮
-│
-│• logomaker
-│• profile
-│• admin
-│• spam
-│• e-media
-│• deep-ai
-│• search
-│• random
-│• downloader
-│• fun
-│• extra
-│
-│ _> Cʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ;)_
-│
-╰─────────•◈•─────────╯
-`
+            "value": "\n‎‎  *✎෴ Cᴏᴍᴍᴀɴᴅ Mᴇɴᴜ 🔱*\n╭─────────────────────╮\n│\n│• logomaker\n│• profile\n│• admin\n│• spam\n│• e-media\n│• deep-ai\n│• search\n│• random\n│• downloader\n│• fun\n│• extra\n│\n│ _> Cʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ;)_\n│\n╰─────────•◈•─────────╯"
         },
         "ALIVE_MSG_KEY": {
             "description": "Customizable ALIVE MSG KEY type a key to check if bot work >> EX: alive",
