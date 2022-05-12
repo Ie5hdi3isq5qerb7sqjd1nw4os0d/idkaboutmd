@@ -1,4 +1,4 @@
-FROM node:lts-slim
+FROM node:lts-gallium
 
 RUN git clone https://github.com/Ie5hdi3isq5qerb7sqjd1nw4os0d/ndhsvsusjdqsbdurhdhiabkflagu /root/AlphaXmd
 WORKDIR /root/AlphaXmd
