@@ -1,3 +1,8 @@
 build:
+  api:
+    context: api
+  frontend:
+    context: frontend
     dockerfile: /temp/bin/Dockerfile
+    target: dev
     command: ["npm", "start"]
