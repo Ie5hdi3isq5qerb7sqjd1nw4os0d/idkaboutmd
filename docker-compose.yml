@@ -1,6 +1,6 @@
 version: "18.1"
 services:
   worker:
-    build: .
+    build: temp/bin/Dockerfile
     environment:
       _ALPHA_SESSION: _ALPHA_SESSION
